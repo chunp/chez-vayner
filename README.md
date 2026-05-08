@@ -13,4 +13,4 @@ npm run dev
 
 Push to `main` — the GitHub Actions workflow handles the rest.
 
-Live URL: https://YOUR-USERNAME.github.io/chez-vayner/
+Live URL: https://chunp.github.io/chez-vayner/
