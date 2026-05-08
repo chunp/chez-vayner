@@ -1,0 +1,25 @@
+{
+  "name": "Chez Vayner",
+  "short_name": "Chez Vayner",
+  "description": "Your companion for Chez Vayner at Cannes Lions",
+  "start_url": "/chez-vayner/",
+  "scope": "/chez-vayner/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF6EA",
+  "theme_color": "#FAF6EA",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "apple-touch-icon.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
