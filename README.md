@@ -1,2 +1,16 @@
-# chez-vayner
-Daily Guide for Chez Vayner Activations
+# Chez Vayner
+
+Companion app for Chez Vayner at Cannes Lions — agenda, notes, calendars, and venues.
+
+## Develop locally
+
+```bash
+npm install
+npm run dev
+```
+
+## Deploy
+
+Push to `main` — the GitHub Actions workflow handles the rest.
+
+Live URL: https://YOUR-USERNAME.github.io/chez-vayner/
